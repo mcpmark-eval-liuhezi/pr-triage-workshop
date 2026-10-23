@@ -7,11 +7,11 @@ Sandbox for the live pull request triage workshop demo.
 Install the dependencies and start the demo service:
 
 ```bash
-npm instal
-npm run demo -- --port 300
+npm install
+npm run demo -- --port 3000
 ```
 
-Then open youre browser at `http://localhost:3000` to see the demo dashboard.
+Then open your browser at `http://localhost:3000` to see the demo dashboard.
 
 ## Structure
 
